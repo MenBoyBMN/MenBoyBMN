@@ -77,10 +77,10 @@ contact: buiminhnhat2910@gmail.com
 <!-- FEATURED-PROJECTS:START -->
 <div align="center">
   <a href="https://github.com/MenBoyBMN/Custom-UI-AGY-APP"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=Custom-UI-AGY-APP&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="Custom-UI-AGY-APP"/></a>
-  <a href="https://github.com/MenBoyBMN/EduGuide_VN"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=EduGuide_VN&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="EduGuide_VN"/></a>
-  <br/>
-  <a href="https://github.com/MenBoyBMN/HairFit_AI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=HairFit_AI&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="HairFit_AI"/></a>
   <a href="https://github.com/MenBoyBMN/TodoLite"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=TodoLite&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="TodoLite"/></a>
+  <br/>
+  <a href="https://github.com/MenBoyBMN/EduGuide_VN"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=EduGuide_VN&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="EduGuide_VN"/></a>
+  <a href="https://github.com/MenBoyBMN/HairFit_AI"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=HairFit_AI&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="HairFit_AI"/></a>
   <br/>
   <a href="https://github.com/MenBoyBMN/Lang_Blog_Podcast_Website_ASPdotNET"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=Lang_Blog_Podcast_Website_ASPdotNET&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="Lang_Blog_Podcast_Website_ASPdotNET"/></a>
   <a href="https://github.com/MenBoyBMN/Person_Movie_Management"><img src="https://github-readme-stats.shion.dev/api/pin/?username=MenBoyBMN&repo=Person_Movie_Management&theme=radical&hide_border=false&border_color=6C63FF&border_radius=10&bg_color=0D1117&title_color=6C63FF&icon_color=A9FBD7&text_color=C9D1D9" alt="Person_Movie_Management"/></a>
